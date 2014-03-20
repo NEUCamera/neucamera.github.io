@@ -12,3 +12,5 @@ tags: jekyll
 
 1. 把[rssgenerator.rb](https://github.com/agelber/jekyll-rss/blob/master/rssgenerator.rb)复制到`_plugins`目录（如果没有就自己新建一个，与`_posts`等目录同级）里。
 2. 修改`_config.yml`文件即可，修改方法参见[这里](https://github.com/agelber/jekyll-rss#usage)。
+
+<a href="/rss.xml"> rss.xml </a>
