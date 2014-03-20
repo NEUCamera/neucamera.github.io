@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Neusoft IA Camera Site</title>
+    <link>neucamera.github.io</link>
+    <description>RSS feed for Neusoft IA Camera Site</description>
+    <pubDate>Wed, 19 Mar 2014 19:52:33 -0000</pubDate>
+    <item>
+      <title>Welcome to Jekyll!</title>
+      <link>neucamera.github.io/jekyll/update/2014/03/19/welcome-to-jekyll.html</link>
+      <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 19 Mar 2014 19:52:33 -0000</pubDate>
+      <guid>neucamera.github.io/jekyll/update/2014/03/19/welcome-to-jekyll.html</guid>
+      <dc:date>2014-03-19T19:52:33Z</dc:date>
+    </item>
+    <item>
+      <title>git简介</title>
+      <link>neucamera.github.io/common/2014/03/20/use-git.html</link>
+      <description>&lt;h3&gt;git是什么&lt;/h3&gt;
+</description>
+      <pubDate>Thu, 20 Mar 2014 00:00:00 +0800</pubDate>
+      <guid>neucamera.github.io/common/2014/03/20/use-git.html</guid>
+      <dc:date>2014-03-20T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>为 Jekyll blog增加rss功能</title>
+      <link>neucamera.github.io/common/2014/03/20/jekyll-rss.html</link>
+      <description>&lt;p&gt;通过bing搜索，找到了一个jekyll的插件&lt;a href=&quot;https://github.com/agelber/jekyll-rss&quot;&gt;agelber/jekyll-rss&lt;/a&gt;。&lt;/p&gt;
+</description>
+      <pubDate>Thu, 20 Mar 2014 00:00:00 +0800</pubDate>
+      <guid>neucamera.github.io/common/2014/03/20/jekyll-rss.html</guid>
+      <dc:date>2014-03-20T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>gem简介</title>
+      <link>neucamera.github.io/2014/03/20/Use-gem.html</link>
+      <description>&lt;h3&gt;gem是什么&lt;/h3&gt;
+</description>
+      <pubDate>Thu, 20 Mar 2014 00:00:00 +0800</pubDate>
+      <guid>neucamera.github.io/2014/03/20/Use-gem.html</guid>
+      <dc:date>2014-03-20T00:00:00+08:00</dc:date>
+    </item>
+    <item>
+      <title>第一个!</title>
+      <link>neucamera.github.io/test/2014/03/19/firstblog.html</link>
+      <description>&lt;p&gt;第一个blog&lt;/p&gt;
+</description>
+      <pubDate>Wed, 19 Mar 2014 11:03:00 +0800</pubDate>
+      <guid>neucamera.github.io/test/2014/03/19/firstblog.html</guid>
+      <dc:date>2014-03-19T11:03:00+08:00</dc:date>
+    </item>
+    <dc:date>2014-03-19T19:52:33Z</dc:date>
+  </channel>
+</rss>
