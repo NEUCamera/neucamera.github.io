@@ -30,6 +30,8 @@ a:hover   { color: #000; }
 a:visited { color: #a0a; }
 */
 
+p { margin: 1em 0; }
+
 body {
   font-family: "微软雅黑", Helvetica, arial, freesans, clean, sans-serif;
   font-size: 14px;
